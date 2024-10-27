@@ -1,0 +1,1 @@
+pyinstaller --noconsole -F .\outline-window-hide.py

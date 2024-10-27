@@ -1,7 +1,6 @@
 Simple program to Hide Outline VPN window on Windows startup
 ==
 On Startup:
-
 --
 
 ![screen1.png](screen1.png)
